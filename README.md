@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Cronometro" />
-
-  &#xa0;
-
-  <!-- <a href="https://cronometro.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Cronometro</h1>
 
@@ -29,7 +22,7 @@
 Projeto desenvolvido seguindo o tutorial do Matheus Battisti. Praticando a base do JS desenvolvendo um cronômetro!
 
 
-Made with :heart: by <a href="https://github.com/{{andradeleo}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{andradeleo}}" target="_blank">{{andradeleo}}</a>
 
 &#xa0;
 
